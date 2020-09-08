@@ -2,7 +2,7 @@
   "name": "twusa/edi-grpc-client",
   "type": "library",
   "description": "twusa edi grpc client",
-  "keywords": ["client", "grp", "php"],
+  "keywords": ["client", "grpc", "php"],
   "homepage": "",
   "license": "MIT",
   "authors": [
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Tuwsa\\Edi\\": "src/"
+      "": "src/"
     }
   }
 }
