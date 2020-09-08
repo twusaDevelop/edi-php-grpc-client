@@ -1,5 +1,5 @@
 {
-  "name": "twusa/edi",
+  "name": "twusa/edi-grpc-client",
   "type": "library",
   "description": "twusa edi grpc client",
   "keywords": ["client", "grp", "php"],
